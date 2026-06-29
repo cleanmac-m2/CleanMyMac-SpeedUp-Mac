@@ -12,7 +12,7 @@
 
 <img width="1280" height="720" alt="image" src="https://github.com/user-attachments/assets/17cd2dc0-fcec-4677-9429-7186c2bb7664" />
 
-**CleanMyMac for Mac** is a free, open-source optimization tool designed specifically for macOS, widely regarded as one of the safest and most reliable system cleaners in the Apple community. Unlike bloated paid alternatives, CleanMyMac provides a lightweight, privacy-first solution that gives your Mac the performance boost it deserves — completely free.
+**CleanMyMac for Mac** is a free, open-source optimization tool designed specifically for macOS, widely regarded as one of the safest and most reliable system cleaners in the Apple community. Unlike bloated paid alternatives, CleanMyMac provides a lightweight, privacy-first solution that gives your Mac the performance boost it deserves — completely free
 
 Whether you're clearing out junk files, removing malware, or managing startup items, this tool covers it all. It also addresses one of the biggest concerns for Mac users in 2026: keeping your system fast and secure without paying for expensive subscription services.
 
